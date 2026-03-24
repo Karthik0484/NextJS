@@ -1,8 +1,8 @@
 export default function About() {
   return (
-    <div style={{textAlign:"center", marginTop:"50px"}}>
+    <div>
       <h1>About Page</h1>
-      <p>This is the About page</p>
+      <p>This page uses shared layout (Navbar & Footer)</p>
     </div>
   );
 }
